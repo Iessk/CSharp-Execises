@@ -2,7 +2,7 @@ using System;
 
 namespace Main
 {
-    internal class Program
+    internal class Struct
     {
         static void Main(string[] args)
         {
