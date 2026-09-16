@@ -21,6 +21,7 @@ namespace Main
             Console.WriteLine("Value : {0} , Type : {1} ", MyDynamicVar, MyDynamicVar.GetType());
             
             // acts like var but you can change its type
+            // the dynamic handle the type during runtime
         }
     }
 }
